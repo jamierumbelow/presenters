@@ -1,5 +1,5 @@
 {
-	"name": "presenters",
+	"name": "jamierumbelow/presenters",
 	"version": "1.0.0",
 	"type": "library",
 	"description": "Clean up your views with PHP presenters",
